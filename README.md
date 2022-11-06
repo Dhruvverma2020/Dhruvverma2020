@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruvverma2020
 - 👀 I’m interested in ...problem solving
 - 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...DSA
+- 💞️ I’m looking to collaborate on ...web devlopment
 - 📫 How to reach me ...
 
 <!---

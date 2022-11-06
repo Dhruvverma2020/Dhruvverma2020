@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruvverma2020
 - 👀 I’m interested in ...problem solving
-- 🌱 I’m currently learning ...DSA
+- 🌱 I’m currently learning ..NodeJS, Angular, Flutter and MongoDB
 - 💞️ I’m looking to collaborate on ...web devlopment
 - 📫 How to reach me ...
 

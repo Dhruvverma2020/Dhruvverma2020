@@ -1,4 +1,5 @@
-# 💫 About Me:<ul>🔭I'm currently working on a parking booking app called Parko</ul>.<br>I'm currently learning React, React Native, Figma, and Mongo DB.<br>I’m looking to collaborate on front-end development.<br>I’m interested in problem-solving.<br>How to reach me: dhruv64verma@gmail.com<br><br><br>
+<ul>
+# 💫 About Me:<li>🔭I'm currently working on a parking booking app called Parko</li>.<br>I'm currently learning React, React Native, Figma, and Mongo DB.<br>I’m looking to collaborate on front-end development.<br>I’m interested in problem-solving.<br>How to reach me: dhruv64verma@gmail.com<br><br><br></ul>
 
 
 ## 🌐 Socials:

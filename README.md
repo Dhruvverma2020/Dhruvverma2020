@@ -1,3 +1,5 @@
+# Hi ![image](https://user-images.githubusercontent.com/75657801/232859053-95e2aeb6-1de9-4d48-946a-6a7638391082.png)
+I'm Dhruv 
 # 💫 About Me:
 I'm currently working on a parking booking app called Parko<br>I'm currently learning React, React Native, Figma, and Mongo DB.<br>I’m looking to collaborate on front-end development.<br>I’m interested in problem-solving.<br>How to reach me: dhruv64verma@gmail.com<br><br><br>
 

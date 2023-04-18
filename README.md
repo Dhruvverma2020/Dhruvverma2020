@@ -1,4 +1,4 @@
-# Hi <p align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="140px" width="140px">  I'm Dhruv 
+# Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">I'm Dhruv 
 # 💫 About Me:
 I'm currently working on a parking booking app called Parko<br>I'm currently learning React, React Native, Figma, and Mongo DB.<br>I’m looking to collaborate on front-end development.<br>I’m interested in problem-solving.<br>How to reach me: dhruv64verma@gmail.com<br><br><br>
 

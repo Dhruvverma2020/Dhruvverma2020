@@ -1,4 +1,4 @@
-# Hi https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif I'm Dhruv 
+# Hi <IMG SRC="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif.">.I'm Dhruv 
 # 💫 About Me:
 I'm currently working on a parking booking app called Parko<br>I'm currently learning React, React Native, Figma, and Mongo DB.<br>I’m looking to collaborate on front-end development.<br>I’m interested in problem-solving.<br>How to reach me: dhruv64verma@gmail.com<br><br><br>
 
